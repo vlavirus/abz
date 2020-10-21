@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c2d38c7.chunk.css",
-    "main.js": "/static/js/main.877e2672.chunk.js",
-    "main.js.map": "/static/js/main.877e2672.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b622fc1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b622fc1.js.map",
-    "static/js/2.fe5e736e.chunk.js": "/static/js/2.fe5e736e.chunk.js",
-    "static/js/2.fe5e736e.chunk.js.map": "/static/js/2.fe5e736e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2b99d0ce33a199f1d257c77e686b2ace.js": "/precache-manifest.2b99d0ce33a199f1d257c77e686b2ace.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3c2d38c7.chunk.css.map": "/static/css/main.3c2d38c7.chunk.css.map",
-    "static/js/2.fe5e736e.chunk.js.LICENSE.txt": "/static/js/2.fe5e736e.chunk.js.LICENSE.txt",
-    "static/media/introduction.scss": "/static/media/banner-photo.f5443d74.jpg",
-    "static/media/man-laptop-v1.svg": "/static/media/man-laptop-v1.3cdf7897.svg"
+    "main.css": "/abz/static/css/main.18a8cc2c.chunk.css",
+    "main.js": "/abz/static/js/main.877e2672.chunk.js",
+    "main.js.map": "/abz/static/js/main.877e2672.chunk.js.map",
+    "runtime-main.js": "/abz/static/js/runtime-main.8ab2d3d1.js",
+    "runtime-main.js.map": "/abz/static/js/runtime-main.8ab2d3d1.js.map",
+    "static/js/2.fe5e736e.chunk.js": "/abz/static/js/2.fe5e736e.chunk.js",
+    "static/js/2.fe5e736e.chunk.js.map": "/abz/static/js/2.fe5e736e.chunk.js.map",
+    "index.html": "/abz/index.html",
+    "precache-manifest.d2dda13536f19c8fe248a82dafdd2b74.js": "/abz/precache-manifest.d2dda13536f19c8fe248a82dafdd2b74.js",
+    "service-worker.js": "/abz/service-worker.js",
+    "static/css/main.18a8cc2c.chunk.css.map": "/abz/static/css/main.18a8cc2c.chunk.css.map",
+    "static/js/2.fe5e736e.chunk.js.LICENSE.txt": "/abz/static/js/2.fe5e736e.chunk.js.LICENSE.txt",
+    "static/media/introduction.scss": "/abz/static/media/banner-photo.f5443d74.jpg",
+    "static/media/man-laptop-v1.svg": "/abz/static/media/man-laptop-v1.3cdf7897.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b622fc1.js",
+    "static/js/runtime-main.8ab2d3d1.js",
     "static/js/2.fe5e736e.chunk.js",
-    "static/css/main.3c2d38c7.chunk.css",
+    "static/css/main.18a8cc2c.chunk.css",
     "static/js/main.877e2672.chunk.js"
   ]
 }
