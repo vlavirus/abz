@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abz/static/css/main.e328d181.chunk.css",
+    "main.css": "/abz/static/css/main.caad6a01.chunk.css",
     "main.js": "/abz/static/js/main.6a108a96.chunk.js",
     "main.js.map": "/abz/static/js/main.6a108a96.chunk.js.map",
     "runtime-main.js": "/abz/static/js/runtime-main.8ab2d3d1.js",
@@ -8,9 +8,9 @@
     "static/js/2.fe5e736e.chunk.js": "/abz/static/js/2.fe5e736e.chunk.js",
     "static/js/2.fe5e736e.chunk.js.map": "/abz/static/js/2.fe5e736e.chunk.js.map",
     "index.html": "/abz/index.html",
-    "precache-manifest.d170ccaa0fd7b701f4ff7582f8273bb4.js": "/abz/precache-manifest.d170ccaa0fd7b701f4ff7582f8273bb4.js",
+    "precache-manifest.36462ea6d8805bc00a9d2491c80cbda1.js": "/abz/precache-manifest.36462ea6d8805bc00a9d2491c80cbda1.js",
     "service-worker.js": "/abz/service-worker.js",
-    "static/css/main.e328d181.chunk.css.map": "/abz/static/css/main.e328d181.chunk.css.map",
+    "static/css/main.caad6a01.chunk.css.map": "/abz/static/css/main.caad6a01.chunk.css.map",
     "static/js/2.fe5e736e.chunk.js.LICENSE.txt": "/abz/static/js/2.fe5e736e.chunk.js.LICENSE.txt",
     "static/media/introduction.scss": "/abz/static/media/banner-photo.f5443d74.jpg",
     "static/media/man-laptop-v1.svg": "/abz/static/media/man-laptop-v1.3cdf7897.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8ab2d3d1.js",
     "static/js/2.fe5e736e.chunk.js",
-    "static/css/main.e328d181.chunk.css",
+    "static/css/main.caad6a01.chunk.css",
     "static/js/main.6a108a96.chunk.js"
   ]
 }
