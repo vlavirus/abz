@@ -1,0 +1,28 @@
+.targetElement {
+	cursor: pointer;
+}
+
+.tooltip {
+	position: absolute;
+	padding: 10px;
+	border-radius: 4px;
+	overflow: hidden;
+	font-size: 14px;
+	color: #fefefe;
+	font-weight: 400;
+	font-family: "Source Sans Pro";
+	box-sizing: border-box;
+	filter: drop-shadow(2.463px 3.152px 4px rgba(0,0,0,0.3));
+	background-color: rgba(0,0,0, 0.8);
+	z-index: 9999;
+	&__wrapper {
+		display: inline-block;
+		width: 100%;
+	}
+}
+
+.tooltip.bottom {
+
+	transform: translateX(-50%);
+	margin-top: 45px;
+}

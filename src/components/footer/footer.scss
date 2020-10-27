@@ -1,0 +1,10 @@
+.footer {
+    text-align: center;
+    border-top: 1px solid #ececec;
+    padding: 22px 0 15px 0;
+    &__content {
+        font-size: 16px;
+        color: #4c4b4b;
+        font-weight: 400;
+    }
+}
